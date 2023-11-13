@@ -1,6 +1,6 @@
 <img align="left" width="160" height="160" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 
-# AWS-Cloud-Technical-Practitioner-Study-Notes
+# AWS Certified Cloud Practitioner Study Resources
 A repository containing notes and study material for CLF-C01 exam preparation
 
 Please note that CLF-C01 is retiring 18th Spetember, 2023 and will be replaced with an updated exam CLF-C02
